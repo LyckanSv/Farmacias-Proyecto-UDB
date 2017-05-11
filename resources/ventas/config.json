@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"codigo": {
+			"name": "codigo",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "codigo",
+			"order": 0
+		},
+		"fecha": {
+			"name": "fecha",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "fecha",
+			"order": 1
+		},
+		"productos": {
+			"name": "productos",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "productos",
+			"order": 2
+		},
+		"sucursales": {
+			"name": "sucursales",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "sucursales",
+			"order": 3
+		}
+	}
+}

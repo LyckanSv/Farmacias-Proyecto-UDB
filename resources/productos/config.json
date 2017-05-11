@@ -1,0 +1,93 @@
+{
+	"type": "Collection",
+	"properties": {
+		"Codigo": {
+			"name": "Codigo",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "Codigo",
+			"order": 0
+		},
+		"RegistroSanitario": {
+			"name": "RegistroSanitario",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "RegistroSanitario",
+			"order": 1
+		},
+		"NombreGenerico": {
+			"name": "NombreGenerico",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "NombreGenerico",
+			"order": 2
+		},
+		"Concentracion": {
+			"name": "Concentracion",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Concentracion",
+			"order": 3
+		},
+		"Administracion": {
+			"name": "Administracion",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Administracion",
+			"order": 4
+		},
+		"Presentacion": {
+			"name": "Presentacion",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Presentacion",
+			"order": 5
+		},
+		"Tipo": {
+			"name": "Tipo",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Tipo",
+			"order": 6
+		},
+		"Fabricante": {
+			"name": "Fabricante",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Fabricante",
+			"order": 7
+		},
+		"Existencia": {
+			"name": "Existencia",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "Existencia",
+			"order": 8
+		},
+		"Vencimiento": {
+			"name": "Vencimiento",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Vencimiento",
+			"order": 9
+		},
+		"Precio": {
+			"name": "Precio",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "Precio",
+			"order": 10
+		}
+	}
+}

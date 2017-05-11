@@ -1,0 +1,45 @@
+{
+	"type": "Collection",
+	"properties": {
+		"numeroSucursal": {
+			"name": "numeroSucursal",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "numeroSucursal",
+			"order": 0
+		},
+		"ciudad": {
+			"name": "ciudad",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "ciudad",
+			"order": 1
+		},
+		"direccion": {
+			"name": "direccion",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "direccion",
+			"order": 2
+		},
+		"gerente": {
+			"name": "gerente",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "gerente",
+			"order": 3
+		},
+		"empleados": {
+			"name": "empleados",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "empleados",
+			"order": 4
+		}
+	}
+}

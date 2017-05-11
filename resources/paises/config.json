@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"nombre": {
+			"name": "nombre",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "nombre",
+			"order": 0
+		},
+		"ciudades": {
+			"name": "ciudades",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "ciudades",
+			"order": 1
+		}
+	}
+}
